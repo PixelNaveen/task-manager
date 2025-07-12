@@ -42,7 +42,7 @@
                     <th scope="col">Title</th>
                     <th scope="col" style="min-width: 250px;">Description</th>
                     <th scope="col">Status</th>
-                    <th scope="col">Due Date</th>
+                    <th scope="col" style="min-width: 120px;">Due Date</th>
                     <th scope="col">Priority</th>
                     <th scope="col" style="min-width: 120px;">Actions</th>
                 </tr>

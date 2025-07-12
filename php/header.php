@@ -1,7 +1,7 @@
 <!-- header.php -->
 <div class="d-flex justify-content-between align-items-center bg-white rounded-3 shadow-sm px-4 py-2 mb-4">
     <div class="d-flex align-items-center">
-        <h4 class="mb-0 fw-bold">Dashboard</h4>
+        <h4 class="mb-0 fw-bold">My Tasks</h4>
     </div>
     <div class="d-flex align-items-center gap-3">
         <!-- Theme Toggle Icon -->
